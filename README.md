@@ -19,7 +19,7 @@ I help make neuroimaging research more accessible, reproducible, and transparent
 - Open-source contributions across the neuroimaging ecosystem, including **NiPy/NiPype**, **Neurostore**, and more.
 - LLM plumbing that makes mind-numbing levels of productivity possible
 
-## 🌱 What Drives Me
+## 🌱 My guiding light
 
 - 🔬 Making science **open, reproducible, and transparent**
 - 🚀 Building tools that **amplify the impact** of researchers' work
