@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Kent
 
-**Research Associate · Open Science Advocate · Psychoinformatician**
+**Research Associate · Open Science Advocate · neuroinformatician**
 
 "Nothing is lost...Everything is transformed." --Michael Ende
 
