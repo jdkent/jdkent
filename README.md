@@ -16,7 +16,7 @@ I help make neuroimaging research more accessible, reproducible, and transparent
 
 - **[Neurosynth Compose](https://compose.neurosynth.org)** — A web-based platform for flexible, reproducible neuroimaging meta-analysis. It enables researchers to search, curate, and analyze thousands of neuroimaging studies directly from their browser—no programming required.
 - **[NiMARE](https://github.com/neurostuff/NiMARE)** — A Python library for neuroimaging meta-analyses, powering the analytical engine behind Neurosynth Compose.
-- Open-source contributions across the neuroimaging ecosystem, including **NiPy/NiPype**, **Neurostore**, and more.
+- Open-source contributions across the neuroimaging ecosystem, including **NiPy/NiPype**, **nipreps/fmriprep**, and more.
 - LLM plumbing that makes mind-numbing levels of productivity possible
 
 ## 🌱 My motivations
