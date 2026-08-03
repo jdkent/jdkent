@@ -5,7 +5,7 @@
 "Nothing is lost...Everything is transformed." --Michael Ende
 
 My work sits at the intersection of psychology, neuroscience, and informatics.
-I help make neuroimaging research more accessible, reproducible, and transparent.
+I help make neuroimaging research more reproducible.
 
 ## 📊 GitHub Stats
 
