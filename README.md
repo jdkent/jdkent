@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James Kent
+# 👋 Hi, I'm James
 
 **Research Associate · Open Science Advocate · neuroinformatician**
 
